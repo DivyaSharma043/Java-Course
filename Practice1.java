@@ -2,6 +2,16 @@ public class Practice1{
  static void concept(){
 System.out.println("Welcome To hadoop");
 }
+
+// update premitive
+
+void updateId(int newId){
+	newId = 1001;
+}
+int id = 1000;
+updateId(id);
+
+
 public static void main(String [] args){
 	concept();
 	System.out.print("BYE");
