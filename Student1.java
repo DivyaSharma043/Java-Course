@@ -1,6 +1,8 @@
 class Student1{
 	
 	
+	
+	Student1(){}
 	void compute(){
 		
 		int id;
@@ -16,8 +18,7 @@ int maxvalue = Integer.MAX_VALUE;*/
 // FLOAT
 
 	float gpa = 3.81244431568f;
-	
-	double rank = 3.8908907657857890678;
+		double rank = 3.8908907657857890678;
 	
 	// character
 	
@@ -31,8 +32,6 @@ int maxvalue = Integer.MAX_VALUE;*/
 	//System.out.println(nextId);	*/
 	
 	System.out.println("gpa : "+gpa);
-	
-	
 	System.out.println("rank : "+rank);
 	System.out.println("degree : "+degree);
 	}
