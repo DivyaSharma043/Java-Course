@@ -17,7 +17,7 @@ int maxvalue = Integer.MAX_VALUE;*/
 
 // FLOAT
 
-	float gpa = 3.81244431568f;
+	float gpa = 3.81244434568f;
 		double rank = 3.8908907657857890678;
 	
 	// character
