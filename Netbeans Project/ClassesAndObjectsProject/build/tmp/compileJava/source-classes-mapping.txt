@@ -1,3 +1,5 @@
+ClassesAndObjectsProject/person1.java
+ ClassesAndObjectsProject.person1
 ClassesAndObjectsProject/Main.java
  ClassesAndObjectsProject.Main
  ClassesAndObjectsProject.Rectangle
@@ -11,3 +13,7 @@ ClassesAndObjectsProject/Upcasting.java
  ClassesAndObjectsProject.Child
  ClassesAndObjectsProject.Parent
  ClassesAndObjectsProject.Upcasting
+ClassesAndObjectsProject/UsingEnum.java
+ ClassesAndObjectsProject.Department
+ ClassesAndObjectsProject.Employee
+ ClassesAndObjectsProject.UsingEnum
