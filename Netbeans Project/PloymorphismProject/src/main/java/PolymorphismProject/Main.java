@@ -1,11 +1,11 @@
-package PloymorphismProject;
+package PolymorphismProject;
 
-class One
+abstract class One
 {
     public void display()
-    {
+   {
         System.out.println("The base class");
-    }
+   }
 }
 
 class OneOfOne extends One
@@ -25,7 +25,7 @@ class TwoOfOne extends One
 }
 public class Main {
     public static void main(String[] args) {
-        One ptr;
+        One ptr; // ptr is just a declaring varible name
         OneOfOne o1 = new OneOfOne();
         TwoOfOne o2 = new TwoOfOne();
         ptr = o1;
