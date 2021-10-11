@@ -53,7 +53,6 @@ public class View {
                     if(isShared)
                     {
                         BookmarkController.getInstance().share(user, bookmark);
-                        System.out.println("hello dded");
                     }
                 }
               }
